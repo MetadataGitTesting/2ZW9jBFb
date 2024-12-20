@@ -1,0 +1,49 @@
+name: pamella.bailey
+description: data-warehouse
+version: 0.0.1
+author: e0auzf7r.cb1ahlkw@zjqiwqk5.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: pamellabailey
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:27:20'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:27:20'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:27:20.007256Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '51829239'
+  createdAt: '2024-12-20T20:27:20.007256Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
